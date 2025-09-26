@@ -1,0 +1,2 @@
+Website design for nail salon – 
+I developed a complete website for a beauty salon, presenting services, opening hours, contact details, and information about the salon. The website is responsive, working well on desktop, tablet, and mobile devices, and was implemented using HTML, CSS, and JavaScript. This project demonstrates skills in interface design, content organization, and front-end development.
